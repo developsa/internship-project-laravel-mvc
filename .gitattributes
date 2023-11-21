@@ -5,5 +5,7 @@
 *.md diff=markdown
 *.php diff=php
 *.css linguist-detectable=false
+*.js linguist-detectable=false
+*.blade linguist-detectable=false
 /.github export-ignore
 CHANGELOG.md export-ignore
