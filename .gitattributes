@@ -1,7 +1,6 @@
 * text=auto
-*.html diff=html
 *.md diff=markdown
-*.php diff=php
+*.php linguist-detectable=true
 *.css linguist-detectable=false
 *.scss linguist-detectable=false
 *.js linguist-detectable=false
